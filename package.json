@@ -1,6 +1,6 @@
 {
-  "name": "vite-reactts-tailwind-rtk-eslint",
-  "version": "0.0.0",
+  "name": "Smart Weather App",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
